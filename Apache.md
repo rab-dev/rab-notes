@@ -40,3 +40,7 @@ X:/somefolder/xampp2/apache/conf/extra/httpd-vhosts.conf
 </VirtualHost>
 ~~~~
 
+# Free Port 80
+
+https://stackoverflow.com/questions/20558410/xampp-port-80-in-use-by-unable-to-open-process-with-pid-4-12
+
